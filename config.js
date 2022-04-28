@@ -66,7 +66,7 @@ module.exports = {
     NIYA_AI: process.env.NIYA_AI === undefined ? 'false' : process.env.NIYA_AI,
     ALIVEBUTTON: process.env.ALIVEBUTTON === undefined ? 'ʜᴇʟʟᴏ ʙʀᴏ' : process.env.ALIVEBUTTON,
     ALIVE_BUTTON: process.env.ALIVE_BUTTON === undefined ? 'ʜɪ ᴅᴜᴅᴇ' : process.env.ALIVE_BUTTON,
-    LG_LOGO: process.env.LG_LOGO === undefined ? 'https://telegra.ph/file/eabe3610fdfa87362a002.png' : process.env.LG_LOGO,
+    LG_LOGO: process.env.LG_LOGO === undefined ? 'https://telegra.ph/file/aeae3c4fcddc33b90b655.jpg' : process.env.LG_LOGO,
     LOGO_NAME: process.env.LOGO_NAME === undefined ? '☚⃟፝༄ɴɪʏᴀᴍᴡᴏʟ☚⃟፝࿐' : process.env.LOGO_NAME,
     NOLOG: process.env.NO_LOG === undefined ? 'true' : process.env.NO_LOG,
     NU: process.env.NUMBER === undefined ? false : process.env.NUMBER,
