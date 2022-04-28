@@ -182,7 +182,7 @@
         "LG_LOGO": {
             "description": "LOGO list message image link(https://telegra.ph/)link.",
             "required": true,
-            "value": "https://telegra.ph/file/eabe3610fdfa87362a002.png"
+            "value": "https://telegra.ph/file/aeae3c4fcddc33b90b655.jpg"
         },
         "LOGO_NAME": {
             "description": "Set the logo list name",
