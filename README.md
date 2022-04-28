@@ -1,20 +1,20 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙍𝙐𝘿𝙃𝙍𝘼+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙋𝙍𝙄𝙉𝘾𝙀+𝙍𝙐𝘿𝙃;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=WELCOME+TO+NIYAMWOL+WA+BOT+REPO.; CREATED+BY+NASIF+ANSHID;)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/v9nzy97.png" width="300" height="300"/>
+  <img border-radius: 15px src="https://i.imgur.com/aqjv8k9.jpeg" width="300" height="300"/>
   <p align="center">
-<a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Niyamwol" src="https://img.shields.io/badge/Niyamwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/prince-rudh"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Blackmaac"><img title="Author" src="https://img.shields.io/badge/Author-Blackmaac/Niyamwol-v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to make it public
+Project created by <a href="https://github.com/Blackmaac">Blackmaac</a> to make it public
     <br>
        | © |
         Reserved |
@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to m
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Rudhra-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Blackmaac/Niyamwol-v2)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -45,9 +45,9 @@ bash <(curl -L https://t.ly/tHxh)
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/prince-rudh/Rudhra/fork)
+ Click [FORK](https://github.com/Blackmaac/Niyamwol-v2/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra copy this url and change prince-rudh with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Blackmaac/Niyamwol-v2 copy this url and change Blackmaac with your github username and click go<br>
 
 ----
 
@@ -61,13 +61,13 @@ bash <(curl -L https://t.ly/tHxh)
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/prince-rudh/Rudhra">
-    <img src="https://img.shields.io/github/repo-size/prince-rudh/Rudhra?color=Magenta&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/Blackmaac/Niyamwol-v2">
+    <img src="https://img.shields.io/github/repo-size/Blackmaac/Niyamwol-v2?color=Magenta&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/prince-rudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=Magenta&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/prince-rudh/Rudhra?color=Magenta&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra/network/members"><img title="Forks" src="https://img.shields.io/github/forks/prince-rudh/Rudhra?color=Magenta&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/prince-rudh/Rudhra?label=Watchers&color=Magenta&style=flat-square"></a>
+<a href="https://github.com/Blackmaac/followers"><img title="Followers" src="https://img.shields.io/github/followers/Blackmaac?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/Blackmaac/Niyamwol-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Blackmaac/Niyamwol-v2?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/Blackmaac/Niyamwol-v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Blackmaac/Niyamwol-v2?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/Blackmaac/Niyamwol-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Blackmaac/Niyamwol-v2?label=Watchers&color=Magenta&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-Magenta.svg"</a>
 </p>
 
@@ -75,7 +75,7 @@ bash <(curl -L https://t.ly/tHxh)
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/reMlxoc.png)](https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP)
+  [![join](https://i.imgur.com/reMlxoc.png)](https://chat.whatsapp.com/CNWRCnCe1fZ7g3Wo4M8ij4)
   <div align="center">
        
   </div>
@@ -86,8 +86,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/prince-rudh/Rudhra
-$ cd Rudhra
+$ git clone https://github.com/Blackmaac/Niyamwol-v2
+$ cd Niya
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -96,8 +96,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/prince-rudh/Rudhra
-$ cd Rudhra
+$ git clone https://github.com/Blackmaac/Niyamwol-v2
+$ cd Niya
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -117,9 +117,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Prince Rudh`](https://github.com/prince-rudh.png?size=200)](https://github.com/princerudh)
+  [![`Blackmaac`](https://github.com/Blackmaac.png?size=200)](https://github.com/Blackmaac)
 
-[`Prince Rudh`](https://github.com/princerudh)  
+[`Blackmaac`](https://github.com/Blackmaac)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
